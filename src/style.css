@@ -2,10 +2,6 @@
   margin-bottom: 20px;
 }
 
-.input {
+.input:not(:last-of-type) {
   margin-bottom: 10px;
-}
-
-.input:last-child {
-  margin: 0;
 }
